@@ -1,3 +1,7 @@
+#Install
+
+Download the source and extract it to the folder and remember the folder
+
 #How to run execute the following command
 
 `startx &`
@@ -5,6 +9,8 @@
 `sudo mount /home/pi/usbdrv`
 
 `cd /home/camera`
+
+> TIP: extracted source dir
 
 `node monitor.js`
 
